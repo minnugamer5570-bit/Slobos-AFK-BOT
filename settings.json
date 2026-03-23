@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Minnuverse.aternos.me",
-    "port":12544,
+    "port": 12544,
     "version": "1.21.1"
   },
   "position": {
